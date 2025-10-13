@@ -38,9 +38,10 @@ Install directly from PyPI using pip:
 
 ```bash
 pip install linux-buddy
+linux-buddy
 ```
 
-### Quick Install
+### Install
 
 
 ```bash
