@@ -13,7 +13,6 @@ Master Linux commands through interactive terminal lessons with auto-generated p
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
 - [Project Architecture](#project-architecture)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
