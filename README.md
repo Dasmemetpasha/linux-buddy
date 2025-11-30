@@ -20,14 +20,14 @@ Master Linux commands through interactive terminal lessons with auto-generated p
 
 ## Features
 
-- ✨ **100+ Command Lessons** - Covers file operations, networking, text processing, system admin, and security tools
-- 🎯 **Auto-Generated Labs** - Creates practice environments with dummy files for safe experimentation
-- ⚡ **New Terminal Tabs** - Launches lessons in separate gnome-terminal tabs with formatted content
-- 📚 **Ethical Hacking Context** - Every command includes cybersecurity significance and real-world use cases
-- 🔒 **Zero Dependencies** - Uses only Python standard library (os, sys, shutil, subprocess, textwrap, math)
-- 🎨 **4-Column Menu** - Clean paginated interface displaying 100 commands per page
-- 🏗️ **Modular Architecture** - Professional SOLID-principle codebase with src/data, src/core, src/ui structure
-- 🔧 **Beginner-Friendly** - Clear explanations, usage examples, and step-by-step practice instructions
+-  **100+ Command Lessons** - Covers file operations, networking, text processing, system admin, and security tools
+-  **Auto-Generated Labs** - Creates practice environments with dummy files for safe experimentation
+-  **New Terminal Tabs** - Launches lessons in separate gnome-terminal tabs with formatted content
+-  **Ethical Hacking Context** - Every command includes cybersecurity significance and real-world use cases
+-  **Zero Dependencies** - Uses only Python standard library (os, sys, shutil, subprocess, textwrap, math)
+-  **4-Column Menu** - Clean paginated interface displaying 100 commands per page
+-  **Modular Architecture** - Professional SOLID-principle codebase with src/data, src/core, src/ui structure
+-  **Beginner-Friendly** - Clear explanations, usage examples, and step-by-step practice instructions
 
 ## Installation
 
